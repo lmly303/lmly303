@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Shrey Kariria!<br>🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver<br>🌱 Currently learning: Next.js & TypeScript.<br>💬 Ask me about: React, Node.js, Express.js, MongoDB.<br>📫 Reach me at: shreykariria@gmail.com.
+# 👋 Hi, I'm Shrey Kariria!
+🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver<br>🌱 Currently learning: Next.js & TypeScript.<br>💬 Ask me about: React, Node.js, Express.js, MongoDB.<br>📫 Reach me at: shreykariria@gmail.com.
 
 
 # 💻 Tech Stack:
